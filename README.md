@@ -1,1 +1,5 @@
+Winners at national level.
 
+The project concerns a competition organised by ISTAT, which aims to promote the results of the 7th Census of Agriculture and related issues, also in agreement with the Council for Agricultural Research and Analysis of Agricultural Economics - Centre for Politics and Bioeconomy (Crea-PB). Crea-PB makes available farm data of a technical-economic nature, collected through the annual RICA survey (Farm Accountancy Data Network).
+In this poster, my group and I focused on the topic of renewable energy, which is impacting our lives more and more. In particular, we carried out an unsupervised learning analysis using the K-means clustering method in order to create similar groups to identify similar regions on the use of renewable energy. Then we focused on the comparison with the data of the 6 census of agriculture and we saw how the production of renewable energy has changed over time and finally we gave some useful tips to further improve the use of these renewable energies.
+We have the Italian and English version of this poster.
